@@ -15,7 +15,7 @@
 2. Navigate to the project directory:
 
    ```bash
-   cd task2
+   cd OIBSIP\task2
    ```
 
 3. Compile the Java file:
