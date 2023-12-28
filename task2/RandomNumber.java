@@ -3,7 +3,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
-public class GuessingGameGUI {
+public class RandomNumber {
     private static int score = 0;
     private static int chances = 5;
     private static int randomNumber;
