@@ -10,7 +10,7 @@ public class RandomNumber {
         ArrayList<Integer> numbers = new ArrayList<>(5);
         int chances = 5; // Player is given only 5 chances to guess the number
         int number;
-        String Rules = "Welcome to the Random number guessing game\nThis game is to guess the number between 1 to 100 \nYou have only 5 chances to guess the number\nThe guessed number is mentioned too large/too small if difference between original number and guessed number is greater than 10\nThe guessed number is mentioned large/small if difference between original number and guessed number is greater than 10\nIf you enter a number less than or equal to 0 or greater than 100, your turn will be wasted";
+        String Rules = "Welcome to the Random number guessing game\nThis game is to guess the number between 1 to 100 \nYou have only 5 chances to guess the number\nThe guessed number is mentioned too large/too small if difference between original number and guessed number is greater than 10\nThe guessed number is mentioned large/small if difference between original number and guessed number is less than 10\nIf you enter a number less than or equal to 0 or greater than 100, your turn will be wasted";
         System.out.println(Rules);
         do {
             System.out.print("\nEnter the guess number: ");
