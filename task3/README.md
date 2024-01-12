@@ -9,13 +9,13 @@ Make sure you have Java Development Kit (JDK) installed on your machine. You can
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/<YOUR_GITHUB_USERNAME>/Java-ATM.git
+    https://github.com/saisuryaveera/OIBSIP.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Java-ATM
+    cd OIBSIP/task3
     ```
 
 3. Compile the Java file:
