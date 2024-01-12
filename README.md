@@ -1,2 +1,2 @@
 # OIBSIP
-This repository contains java projects build by me. These projects are assigned by Oasis Infobyte.
+This repository contains java projects build during the Java Development Internship at Oasis Infobyte.
